@@ -1,8 +1,9 @@
-import linear.Ex10_linearSearch_1;
+package linear;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class LinearSearchTest {
+public class Ex10_linearSearch_1Test {
 
     private final Ex10_linearSearch_1 linear = new Ex10_linearSearch_1();
 
