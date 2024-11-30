@@ -19,7 +19,13 @@
 
     - [정렬되지 않은 문자열 배열에서 검색 - while문][Ex10_1]
     - [정렬되지 않은 숫자 배열에서 검색 - for문][Ex10_2]
+      <br /><br />
+1. 이분/이진검색
+   - [정렬된 중복없는 숫자배열에서 검색 - do~while문][Ex20_1]
+   - [정렬된 중복값이 있는 숫자배열에서 맨처음 값 검색 - do~while, for문][Ex20_2]
 
 [Ex10_1]: ./src/main/java/linear/Ex10_linearSearch_1.java
 [Ex10_2]: ./src/main/java/linear/Ex10_linearSearch_2.java
+[Ex20_1]: ./src/main/java/binary/Ex20_binarySearch_1.java
+[Ex20_2]: ./src/main/java/binary/Ex20_binarySearch_2.java
 [msi>d>algorithm]: .
